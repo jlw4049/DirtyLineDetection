@@ -1,0 +1,6 @@
+Change Log
+==========
+
+1.0 (11/25/2022)
+-------------------
+- First Release: Add support for converting an image with FIND_EDGES
