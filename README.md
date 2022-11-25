@@ -2,6 +2,8 @@
 
 A toolset that is designed to be used to detect dirty borders in videos/images 
 
+This is early development, currently it's only function is to find the edges of an image, and save the converted image.
+
 Developed by Jessie Wilson (2022)
 
 ## Install
