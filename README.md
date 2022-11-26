@@ -17,7 +17,7 @@ Developed by Jessie Wilson (2022)
 ## Examples of How To Use
 
 ```python
-from edge_converter import EdgeFinder
+from dirty_line_detection import EdgeFinder
 
 convert_image = EdgeFinder()
 convert_image.find_edges(file_input="example.png")
