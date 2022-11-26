@@ -105,7 +105,7 @@ class EdgeFinder:
                     nums.append(find_all_nums.group(1))
 
         # find highest num
-        find_highest_num = str(int(sorted(nums)[-1] + 1))
+        find_highest_num = str(int(sorted(nums)[-1]) + 1)
 
         # return new path with higher number added to the filename
         return Path(

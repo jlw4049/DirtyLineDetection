@@ -12,3 +12,7 @@ Change Log
 1.2 (11/26/2022)
 -------------------
 - Now correctly avoids overwriting files if one exists (if the user does not define an output file)
+
+1.3 (11/26/2022)
+-------------------
+- Minor bug fix in auto renaming output file
