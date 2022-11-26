@@ -17,7 +17,7 @@ with open(os.path.join(os.path.dirname(__file__), "README.md")) as fd:
 
 setup(
     name="PyDirtyLineDetection",
-    version="1.0",
+    version="1.2",
     description="A toolset that is designed to be used to detect dirty borders in videos/images",
     long_description=ext_long_desc,
     long_description_content_type="text/markdown",
