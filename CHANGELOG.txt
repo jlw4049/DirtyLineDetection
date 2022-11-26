@@ -4,3 +4,11 @@ Change Log
 1.0 (11/25/2022)
 -------------------
 - First Release: Add support for converting an image with FIND_EDGES
+
+1.1 (11/25/2022)
+-------------------
+- Adjust import name
+
+1.2 (11/26/2022)
+-------------------
+- Now correctly avoids overwriting files if one exists (if the user does not define an output file)
